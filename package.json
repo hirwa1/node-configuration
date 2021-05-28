@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "formidable": "^1.2.2"
   },
-  "scripts": {
-  }
+  "scripts": {}
 }
